@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrazyRabbitttt
-- 👀 I’m interested in CPP & Linux
-- 🌱 I’m currently learning CPP 、Linux and based computer classes
+- 👀 I’m interested in CPP(c) & Linux
+- 🌱 I’m currently learning CPP 、Linux and basic courses
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 2404987607@qq.com
 
