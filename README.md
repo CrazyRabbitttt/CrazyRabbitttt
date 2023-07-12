@@ -2,8 +2,8 @@
 - 👀 I’m interested in CPP(c) & Linux
 - 🌱 I’m currently learning CPP 、Linux and related technology stack
 - 💞️ I’m looking to collaborate on baidu Or tencent
-- 📫 How to reach me 2404987607@qq.com Or shaoguixin163@163.com
-- 💗 Alaways like Ice 
+- 📫 How to reach me 2404987607@qq.com Or shaoguixin163@163.co
+- 💗
 
 <!---
 CrazyRabbitttt/CrazyRabbitttt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
